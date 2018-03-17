@@ -58,9 +58,9 @@ menu:
   - page: about
     directory: about/
     icon: fa-user
-  - page: rss
-    directory: atom.xml
-    icon: fa-rss
+ ## - page: rss
+  ##  directory: atom.xml
+   ## icon: fa-rss
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
@@ -75,8 +75,8 @@ links:
     url: https://weibo.com/234709738
   - title: 知乎
     url: https://www.zhihu.com/people/zhou-sheng-sheng-66-92/activities
-  - title: site-name3
-    url: http://www.example3.com/
+  ##- title: site-name3
+   ## url: http://www.example3.com/
 
 timeline:
   - num: 1
